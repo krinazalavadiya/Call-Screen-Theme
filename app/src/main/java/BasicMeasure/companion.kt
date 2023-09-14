@@ -1,0 +1,5 @@
+package BasicMeasure
+
+class companion {
+
+}
